@@ -1,0 +1,43 @@
+body {
+    background: rgb(235, 248, 253);
+    font-family: Verdana,sans-serif;
+    max-width: 900px;
+    margin: auto;
+}
+
+.foto_perfil{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.titulo .post_01.subtitulo.post_titulo{
+    color: rgb(20, 20, 20);
+    font-size: italic;
+    
+}  
+
+.titulo_nome {
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+    
+.post-title {
+    background: rgb(250, 254, 254);
+    padding: 10px;
+    border: 2px solid hsl(0, 2%, 62%);
+    margin: 15px;
+    margin: 0;
+    width: 100%;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    text-transform: capitalize;
+    
+}
+
+.comtext_list {
+    list-style-type: none;
+    padding-left: 11px;
+    text-align: center;
+
+}
